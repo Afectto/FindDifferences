@@ -4,11 +4,73 @@
     <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
     <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_FindDifferences.1678882891.00" t="ExcludeRecursive" />
     <e p="D:\UnityProgram\FindDifferences" t="IncludeRecursive">
+      <e p="AppodealStack.Monetization.Api.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.Monetization.Api.Player.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.Monetization.Common.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.Monetization.Common.Player.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.Monetization.Platforms.Android.Player.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.Monetization.Platforms.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.Monetization.Platforms.Dummy.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.Monetization.Platforms.Ios.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.Monetization.Platforms.Player.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.AssetExtractors.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.InternalResources.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.PluginRemover.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.PostProcess.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.PreProcess.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.SDKManager.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.SDKManager.Models.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.SettingsWindow.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.TopBarMenu.csproj" t="IncludeRecursive" />
+      <e p="AppodealStack.UnityEditor.Utils.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.Player.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Appodeal" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Dependencies" t="Include">
+              <e p="AdColonyDependencies.xml" t="Include" />
+              <e p="AdjustDependencies.xml" t="Include" />
+              <e p="AppLovinDependencies.xml" t="Include" />
+              <e p="AppodealDependencies.xml" t="Include" />
+              <e p="AppsFlyerDependencies.xml" t="Include" />
+              <e p="BidMachineDependencies.xml" t="Include" />
+              <e p="BidonDependencies.xml" t="Include" />
+              <e p="BigoAdsDependencies.xml" t="Include" />
+              <e p="DTExchangeDependencies.xml" t="Include" />
+              <e p="FirebaseDependencies.xml" t="Include" />
+              <e p="GoogleAdMobDependencies.xml" t="Include" />
+              <e p="IABDependencies.xml" t="Include" />
+              <e p="InMobiDependencies.xml" t="Include" />
+              <e p="IronSourceDependencies.xml" t="Include" />
+              <e p="MetaAudienceNetworkDependencies.xml" t="Include" />
+              <e p="MetaDependencies.xml" t="Include" />
+              <e p="MintegralDependencies.xml" t="Include" />
+              <e p="MyTargetDependencies.xml" t="Include" />
+              <e p="SentryDependencies.xml" t="Include" />
+              <e p="StackAnalyticsDependencies.xml" t="Include" />
+              <e p="UnityDependencies.xml" t="Include" />
+              <e p="VungleDependencies.xml" t="Include" />
+              <e p="YandexDependencies.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ExternalDependencyManager" t="Include">
+          <e p="Editor" t="Include">
+            <e p="external-dependency-manager_version-1.2.179_manifest.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include">
+            <e p="AndroidManifest.xml" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
+          <e p="Appadeal" t="Include">
+            <e p="AppadealManager.cs" t="Include" />
+          </e>
           <e p="Differences" t="Include">
             <e p="CounterDifferences.cs" t="Include" />
             <e p="DifferencesPair.cs" t="Include" />
@@ -110,6 +172,201 @@
       <e p="FindDifferences.sln" t="IncludeFlat" />
       <e p="Library" t="Include">
         <e p="PackageCache" t="Include">
+          <e p="com.appodeal.mediation@b86d86381f" t="Include">
+            <e p="Editor" t="Include">
+              <e p="AssetExtractors" t="Include">
+                <e p="AndroidLibraryInstaller.cs" t="Include" />
+                <e p="ApdAssetPostprocessor.cs" t="Include" />
+                <e p="AppodealAdaptersInstaller.cs" t="Include" />
+                <e p="AppodealStack.UnityEditor.AssetExtractors.asmdef" t="Include" />
+              </e>
+              <e p="Dependencies" t="Include">
+                <e p="AdNetworkDependencies" t="Include">
+                  <e p="AdColonyDependencies.txt" t="Include" />
+                  <e p="AppLovinDependencies.txt" t="Include" />
+                  <e p="AppodealDependencies.txt" t="Include" />
+                  <e p="BidMachineDependencies.txt" t="Include" />
+                  <e p="BidonDependencies.txt" t="Include" />
+                  <e p="BigoAdsDependencies.txt" t="Include" />
+                  <e p="DTExchangeDependencies.txt" t="Include" />
+                  <e p="GoogleAdMobDependencies.txt" t="Include" />
+                  <e p="IABDependencies.txt" t="Include" />
+                  <e p="InMobiDependencies.txt" t="Include" />
+                  <e p="IronSourceDependencies.txt" t="Include" />
+                  <e p="MetaAudienceNetworkDependencies.txt" t="Include" />
+                  <e p="MintegralDependencies.txt" t="Include" />
+                  <e p="MyTargetDependencies.txt" t="Include" />
+                  <e p="UnityDependencies.txt" t="Include" />
+                  <e p="VungleDependencies.txt" t="Include" />
+                  <e p="YandexDependencies.txt" t="Include" />
+                </e>
+                <e p="ServiceDependencies" t="Include">
+                  <e p="AdjustDependencies.txt" t="Include" />
+                  <e p="AppsFlyerDependencies.txt" t="Include" />
+                  <e p="FirebaseDependencies.txt" t="Include" />
+                  <e p="MetaDependencies.txt" t="Include" />
+                  <e p="SentryDependencies.txt" t="Include" />
+                  <e p="StackAnalyticsDependencies.txt" t="Include" />
+                </e>
+              </e>
+              <e p="EditorCoroutines" t="Include">
+                <e p="EditorCoroutineExtensions.cs" t="Include" />
+                <e p="EditorCoroutines.cs" t="Include" />
+                <e p="marijnz.EditorCoroutines.asmdef" t="Include" />
+              </e>
+              <e p="InternalResources" t="Include">
+                <e p="AppodealSettings.cs" t="Include" />
+                <e p="AppodealStack.UnityEditor.InternalResources.asmdef" t="Include" />
+                <e p="PluginPreferences.cs" t="Include" />
+              </e>
+              <e p="PluginRemover" t="Include">
+                <e p="AppodealStack.UnityEditor.PluginRemover.asmdef" t="Include" />
+                <e p="remove_list.xml" t="Include" />
+                <e p="RemoveHelper.cs" t="Include" />
+              </e>
+              <e p="PostProcess" t="Include">
+                <e p="AppodealPostProcess.cs" t="Include" />
+                <e p="AppodealStack.UnityEditor.PostProcess.asmdef" t="Include" />
+                <e p="iOSPostProcessServices.cs" t="Include" />
+                <e p="iOSPostprocessUtils.cs" t="Include" />
+              </e>
+              <e p="PreProcess" t="Include">
+                <e p="AndroidPreProcessServices.cs" t="Include" />
+                <e p="AppodealPreProcess.cs" t="Include" />
+                <e p="AppodealStack.UnityEditor.PreProcess.asmdef" t="Include" />
+                <e p="FirebaseJsonModel.cs" t="Include" />
+              </e>
+              <e p="SDKManagerWindow" t="Include">
+                <e p="AppodealAdapterManager.cs" t="Include" />
+                <e p="AppodealDependencyUtils.cs" t="Include" />
+                <e p="AppodealStack.UnityEditor.SDKManager.asmdef" t="Include" />
+                <e p="Models" t="Include">
+                  <e p="AppodealDependency.cs" t="Include" />
+                  <e p="AppodealStack.UnityEditor.SDKManager.Models.asmdef" t="Include" />
+                  <e p="AppodealUnityPlugin.cs" t="Include" />
+                </e>
+              </e>
+              <e p="SettingsWindow" t="Include">
+                <e p="AppodealSettingsWindow.cs" t="Include" />
+                <e p="AppodealStack.UnityEditor.SettingsWindow.asmdef" t="Include" />
+              </e>
+              <e p="TopBarMenu" t="Include">
+                <e p="AppodealMenu.cs" t="Include" />
+                <e p="AppodealStack.UnityEditor.TopBarMenu.asmdef" t="Include" />
+              </e>
+              <e p="Utils" t="Include">
+                <e p="AppodealEditorConstants.cs" t="Include" />
+                <e p="AppodealStack.UnityEditor.Utils.asmdef" t="Include" />
+                <e p="AppodealUnityUtils.cs" t="Include" />
+                <e p="JsonHelper.cs" t="Include" />
+                <e p="XmlUtilities.cs" t="Include" />
+              </e>
+            </e>
+            <e p="package.json" t="Include" />
+            <e p="Runtime" t="Include">
+              <e p="Api" t="Include">
+                <e p="Appodeal.cs" t="Include" />
+                <e p="AppodealStack.Monetization.Api.asmdef" t="Include" />
+                <e p="AppStoreInAppPurchase.cs" t="Include" />
+                <e p="PlayStoreInAppPurchase.cs" t="Include" />
+              </e>
+              <e p="Common" t="Include">
+                <e p="AppodealAdRevenue.cs" t="Include" />
+                <e p="AppodealAdType.cs" t="Include" />
+                <e p="AppodealEnums.cs" t="Include" />
+                <e p="AppodealNetworks.cs" t="Include" />
+                <e p="AppodealReward.cs" t="Include" />
+                <e p="AppodealShowStyle.cs" t="Include" />
+                <e p="AppodealStack.Monetization.Common.asmdef" t="Include" />
+                <e p="AppodealVersions.cs" t="Include" />
+                <e p="AppodealViewPosition.cs" t="Include" />
+                <e p="Events" t="Include">
+                  <e p="Internal" t="Include">
+                    <e p="Interfaces" t="Include">
+                      <e p="IAdRevenueProxyListener.cs" t="Include" />
+                      <e p="IBannerAdProxyListener.cs" t="Include" />
+                      <e p="IInAppPurchaseValidationProxyListener.cs" t="Include" />
+                      <e p="IInterstitialAdProxyListener.cs" t="Include" />
+                      <e p="IMrecAdProxyListener.cs" t="Include" />
+                      <e p="IRewardedVideoAdProxyListener.cs" t="Include" />
+                      <e p="ISdkProxyListener.cs" t="Include" />
+                    </e>
+                    <e p="Scripts" t="Include">
+                      <e p="AdRevenueProxyListener.cs" t="Include" />
+                      <e p="BannerAdProxyListener.cs" t="Include" />
+                      <e p="InAppPurchaseValidationProxyListener.cs" t="Include" />
+                      <e p="InterstitialAdProxyListener.cs" t="Include" />
+                      <e p="MrecAdProxyListener.cs" t="Include" />
+                      <e p="RewardedVideoAdProxyListener.cs" t="Include" />
+                      <e p="SdkProxyListener.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Public" t="Include">
+                    <e p="Interfaces" t="Include">
+                      <e p="IAdRevenueListener.cs" t="Include" />
+                      <e p="IAppodealInitializationListener.cs" t="Include" />
+                      <e p="IBannerAdListener.cs" t="Include" />
+                      <e p="IInAppPurchaseValidationListener.cs" t="Include" />
+                      <e p="IInterstitialAdListener.cs" t="Include" />
+                      <e p="IMrecAdListener.cs" t="Include" />
+                      <e p="IRewardedVideoAdListener.cs" t="Include" />
+                    </e>
+                    <e p="Scripts" t="Include">
+                      <e p="AdLoadedEventArgs.cs" t="Include" />
+                      <e p="AdRevenueEventArgs.cs" t="Include" />
+                      <e p="AppodealCallbacks.cs" t="Include" />
+                      <e p="BannerLoadedEventArgs.cs" t="Include" />
+                      <e p="InAppPurchaseEventArgs.cs" t="Include" />
+                      <e p="RewardedVideoClosedEventArgs.cs" t="Include" />
+                      <e p="RewardedVideoFinishedEventArgs.cs" t="Include" />
+                      <e p="SdkInitializedEventArgs.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Interfaces" t="Include">
+                  <e p="IAppodealAdsClient.cs" t="Include" />
+                  <e p="IAppStoreInAppPurchase.cs" t="Include" />
+                  <e p="IAppStoreInAppPurchaseBuilder.cs" t="Include" />
+                  <e p="IInAppPurchaseBase.cs" t="Include" />
+                  <e p="IInAppPurchaseBaseBuilder.cs" t="Include" />
+                  <e p="IPlayStoreInAppPurchase.cs" t="Include" />
+                  <e p="IPlayStoreInAppPurchaseBuilder.cs" t="Include" />
+                </e>
+                <e p="PredefinedKeys.cs" t="Include" />
+              </e>
+              <e p="Platforms" t="Include">
+                <e p="Android" t="Include">
+                  <e p="AndroidAppodealClient.cs" t="Include" />
+                  <e p="AndroidPlayStoreInAppPurchase.cs" t="Include" />
+                  <e p="AndroidPlayStoreInAppPurchaseBuilder.cs" t="Include" />
+                  <e p="AppodealStack.Monetization.Platforms.Android.asmdef" t="Include" />
+                  <e p="Callbacks" t="Include">
+                    <e p="AppodealAdRevenueCallback.cs" t="Include" />
+                    <e p="AppodealBannerCallbacks.cs" t="Include" />
+                    <e p="AppodealInitializationCallback.cs" t="Include" />
+                    <e p="AppodealInterstitialCallbacks.cs" t="Include" />
+                    <e p="AppodealMrecCallbacks.cs" t="Include" />
+                    <e p="AppodealRewardedVideoCallbacks.cs" t="Include" />
+                    <e p="InAppPurchaseValidationCallbacks.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="AppodealAdsClientFactory.cs" t="Include" />
+                <e p="AppodealStack.Monetization.Platforms.asmdef" t="Include" />
+                <e p="Dummy" t="Include">
+                  <e p="AppodealStack.Monetization.Platforms.Dummy.asmdef" t="Include" />
+                  <e p="DummyAppodealClient.cs" t="Include" />
+                  <e p="DummyAppStoreInAppPurchaseBuilder.cs" t="Include" />
+                  <e p="DummyPlayStoreInAppPurchaseBuilder.cs" t="Include" />
+                </e>
+                <e p="iOS" t="Include">
+                  <e p="AppodealStack.Monetization.Platforms.Ios.asmdef" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="com.google.external-dependency-manager@a366070c64a8" t="Include">
+            <e p="package.json" t="Include" />
+          </e>
           <e p="com.unity.2d.animation@9.1.0" t="Include">
             <e p="Editor" t="Include">
               <e p="Analytics.cs" t="Include" />
@@ -1159,6 +1416,414 @@
             <e p="Tests" t="Include">
               <e p="Editor" t="Include">
                 <e p="Unity.2D.Tilemap.Package.EditorTests.asmdef" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="com.unity.addressables@1.21.20" t="Include">
+            <e p="Editor" t="Include">
+              <e p="AddressableAssetSettingsDefaultObject.cs" t="Include" />
+              <e p="AddressableEditorInitialization.cs" t="Include" />
+              <e p="AssemblyInfo.cs" t="Include" />
+              <e p="Build" t="Include">
+                <e p="AddressableAnalytics.cs" t="Include" />
+                <e p="AddressableAssetSettingsLocator.cs" t="Include" />
+                <e p="AddressablesBuildScriptHooks.cs" t="Include" />
+                <e p="AddressablesDataBuilderInput.cs" t="Include" />
+                <e p="AddressablesDataBuilders.cs" t="Include" />
+                <e p="AddressablesPlayerBuildProcessor.cs" t="Include" />
+                <e p="AnalyzeRules" t="Include">
+                  <e p="AnalyzeResultData.cs" t="Include" />
+                  <e p="AnalyzeRule.cs" t="Include" />
+                  <e p="AnalyzeSystem.cs" t="Include" />
+                  <e p="BuildBundleLayout.cs" t="Include" />
+                  <e p="BundleRuleBase.cs" t="Include" />
+                  <e p="CheckBundleDupeDependencies.cs" t="Include" />
+                  <e p="CheckResourcesDupeDependencies.cs" t="Include" />
+                  <e p="CheckSceneDupeDependencies.cs" t="Include" />
+                </e>
+                <e p="BuildPipelineTasks" t="Include">
+                  <e p="AddHashToBundleNameTask.cs" t="Include" />
+                  <e p="BuildLayoutGenerationTask.cs" t="Include" />
+                  <e p="ExtractDataTask.cs" t="Include" />
+                  <e p="GenerateLocationListsTask.cs" t="Include" />
+                </e>
+                <e p="BuildUtility.cs" t="Include" />
+                <e p="CcdBuildEvents.cs" t="Include" />
+                <e p="ContentUpdateScript.cs" t="Include" />
+                <e p="DataBuilderInterfaces.cs" t="Include" />
+                <e p="DataBuilders" t="Include">
+                  <e p="AddressableAssetsBuildContext.cs" t="Include" />
+                  <e p="AddressableAssetsBundleBuildParameters.cs" t="Include" />
+                  <e p="BuildScriptBase.cs" t="Include" />
+                  <e p="BuildScriptFastMode.cs" t="Include" />
+                  <e p="BuildScriptPackedMode.cs" t="Include" />
+                  <e p="BuildScriptPackedPlayMode.cs" t="Include" />
+                  <e p="BuildScriptVirtualMode.cs" t="Include" />
+                </e>
+                <e p="DirectoryUtility.cs" t="Include" />
+                <e p="FastModeInitializationOperation.cs" t="Include" />
+                <e p="FileRegistry.cs" t="Include" />
+                <e p="Layout" t="Include">
+                  <e p="BuildLayout.cs" t="Include" />
+                  <e p="BuildLayoutEnums.cs" t="Include" />
+                  <e p="BuildLayoutHelpers.cs" t="Include" />
+                  <e p="BuildLayoutPrinter.cs" t="Include" />
+                  <e p="BuildLayoutSummary.cs" t="Include" />
+                </e>
+                <e p="LinkXMLGenerator.cs" t="Include" />
+                <e p="MonoScriptBundleNaming.cs" t="Include" />
+                <e p="RevertUnchangedAssetsToPreviousAssetState.cs" t="Include" />
+                <e p="SceneManagerState.cs" t="Include" />
+                <e p="ShaderBundleNaming.cs" t="Include" />
+              </e>
+              <e p="BuildReportVisualizer" t="Include">
+                <e p="BuildReportListView.cs" t="Include" />
+                <e p="BuildReportWindow.cs" t="Include" />
+                <e p="ContentView" t="Include">
+                  <e p="AssetsContentView.cs" t="Include" />
+                  <e p="BundlesContentView.cs" t="Include" />
+                  <e p="ContentView.cs" t="Include" />
+                  <e p="DetailsView.cs" t="Include" />
+                  <e p="DuplicatedAssetsContentView.cs" t="Include" />
+                  <e p="GroupsContentView.cs" t="Include" />
+                  <e p="LabelsContentView.cs" t="Include" />
+                </e>
+                <e p="DetailsPanel" t="Include">
+                  <e p="DetailsContents.cs" t="Include" />
+                  <e p="DetailsContentView.cs" t="Include" />
+                  <e p="DetailsSummaryView.cs" t="Include" />
+                  <e p="DetailsUtility.cs" t="Include" />
+                </e>
+                <e p="IAddressableView.cs" t="Include" />
+                <e p="IBuildReportConsumer.cs" t="Include" />
+                <e p="MainPanelSummaryTab.cs" t="Include" />
+                <e p="MainToolbar.cs" t="Include" />
+                <e p="ToggleTextExpansionButton.cs" t="Include" />
+                <e p="UIToolKitAssets" t="Include">
+                  <e p="StyleSheets" t="Include">
+                    <e p="DetailsPanelSummary.uss" t="Include" />
+                    <e p="DetailsViewDark.uss" t="Include" />
+                    <e p="DetailsViewLight.uss" t="Include" />
+                    <e p="DrillableListItemStyle.uss" t="Include" />
+                    <e p="MainToolbarButtons.uss" t="Include" />
+                    <e p="MainToolbarButtonsDark.uss" t="Include" />
+                    <e p="MainToolbarButtonsLight.uss" t="Include" />
+                    <e p="ReportListItem.uss" t="Include" />
+                    <e p="SummaryTab.uss" t="Include" />
+                    <e p="SummaryTabCardDark.uss" t="Include" />
+                    <e p="SummaryTabCardLight.uss" t="Include" />
+                    <e p="SummaryTabDark.uss" t="Include" />
+                    <e p="SummaryTabLight.uss" t="Include" />
+                    <e p="TreeViewItem.uss" t="Include" />
+                    <e p="TreeViewNavigableItem.uss" t="Include" />
+                  </e>
+                  <e p="UXML" t="Include">
+                    <e p="BuildReportWindow.uxml" t="Include" />
+                    <e p="ContentTab.uxml" t="Include" />
+                    <e p="DetailsPanel.uxml" t="Include" />
+                    <e p="DetailsPanelSummaryAsset.uxml" t="Include" />
+                    <e p="DetailsPanelSummaryBundle.uxml" t="Include" />
+                    <e p="DetailsPanelSummaryNavigableBundle.uxml" t="Include" />
+                    <e p="DetailsPanelSummaryNavigableItem.uxml" t="Include" />
+                    <e p="DrillableListViewItem.uxml" t="Include" />
+                    <e p="MainPanel.uxml" t="Include" />
+                    <e p="MainToolbar.uxml" t="Include" />
+                    <e p="PotentialIssues.uxml" t="Include" />
+                    <e p="ReportsListItem.uxml" t="Include" />
+                    <e p="ReportsListPanel.uxml" t="Include" />
+                    <e p="SummaryTab.uxml" t="Include" />
+                    <e p="TreeViewItem.uxml" t="Include" />
+                    <e p="TreeViewNavigableItem.uxml" t="Include" />
+                  </e>
+                </e>
+                <e p="Utility" t="Include">
+                  <e p="BuildReportHelperConsumer.cs" t="Include" />
+                  <e p="BuildReportUtility.cs" t="Include" />
+                  <e p="DetailsListItem.cs" t="Include" />
+                  <e p="DetailsStack.cs" t="Include" />
+                  <e p="DetailsSummaryBuilder.cs" t="Include" />
+                  <e p="SummaryRowBuilder.cs" t="Include" />
+                  <e p="TreeBuilder.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Diagnostics" t="Include">
+                <e p="AddressableIconNames.cs" t="Include" />
+                <e p="Data" t="Include">
+                  <e p="EventDataPlayerSession.cs" t="Include" />
+                  <e p="EventDataPlayerSessionCollection.cs" t="Include" />
+                  <e p="EventDataSample.cs" t="Include" />
+                  <e p="EventDataSet.cs" t="Include" />
+                  <e p="EventDataStream.cs" t="Include" />
+                </e>
+                <e p="GUI" t="Include">
+                  <e p="EventGraphListView.cs" t="Include" />
+                  <e p="EventListView.cs" t="Include" />
+                  <e p="EventViewerWindow.cs" t="Include" />
+                  <e p="Graph" t="Include">
+                    <e p="GraphDefinition.cs" t="Include" />
+                    <e p="GraphLayerBackground.cs" t="Include" />
+                    <e p="GraphLayerBarChart.cs" t="Include" />
+                    <e p="GraphLayerBase.cs" t="Include" />
+                    <e p="GraphLayerEventMarker.cs" t="Include" />
+                    <e p="GraphLayerLabel.cs" t="Include" />
+                    <e p="GraphUtility.cs" t="Include" />
+                    <e p="IGraphLayer.cs" t="Include" />
+                  </e>
+                  <e p="GraphColors.cs" t="Include" />
+                </e>
+                <e p="Profiler" t="Include">
+                  <e p="AddressablesProfilerDetailsDataInspector.cs" t="Include" />
+                  <e p="AddressablesProfilerDetailsTreeView.cs" t="Include" />
+                  <e p="AddressablesProfilerDetailsView.cs" t="Include" />
+                  <e p="AddressablesProfilerModule.cs" t="Include" />
+                  <e p="AddressablesProfilerUnsupported.cs" t="Include" />
+                  <e p="AddressablesProfilerViewController.cs" t="Include" />
+                  <e p="BuildLayoutsManager.cs" t="Include" />
+                  <e p="ContentDataListView.cs" t="Include" />
+                  <e p="ContentDataTreeView.cs" t="Include" />
+                  <e p="ContentSearch.cs" t="Include" />
+                  <e p="GUIElements" t="Include">
+                    <e p="AssetLabel.cs" t="Include" />
+                  </e>
+                  <e p="HelpDisplayManager.cs" t="Include" />
+                  <e p="ProfilerDetailsTreeViewItemData.cs" t="Include" />
+                  <e p="ProfilerGUIUtilities.cs" t="Include" />
+                  <e p="ProfilerStrings.cs" t="Include" />
+                  <e p="ProfilerTemplates.cs" t="Include" />
+                  <e p="UXML" t="Include">
+                    <e p="HelpDisplay.cs" t="Include" />
+                    <e p="HelpDisplay.uxml" t="Include" />
+                    <e p="InspectorPane.cs" t="Include" />
+                    <e p="InspectorPane.uxml" t="Include" />
+                    <e p="MissingReport.cs" t="Include" />
+                    <e p="MissingReport.uxml" t="Include" />
+                    <e p="stylesheet.uss" t="Include" />
+                    <e p="TreeColumnNames.cs" t="Include" />
+                    <e p="TreeViewPane.cs" t="Include" />
+                    <e p="TreeViewPane.uxml" t="Include" />
+                    <e p="Unsupported.uxml" t="Include" />
+                  </e>
+                </e>
+                <e p="ResourceManagerCacheWindow.cs" t="Include" />
+                <e p="ResourceProfilerWindow.cs" t="Include" />
+              </e>
+              <e p="GUI" t="Include">
+                <e p="AddressableAssetEntryCollectionEditor.cs" t="Include" />
+                <e p="AddressableAssetGroupInspector.cs" t="Include" />
+                <e p="AddressableAssetGroupTemplateInspector.cs" t="Include" />
+                <e p="AddressableAssetSettingsInspector.cs" t="Include" />
+                <e p="AddressableAssetsSettingsGroupEditor.cs" t="Include" />
+                <e p="AddressableAssetsSettingsGroupEditorBuildMenu.cs" t="Include" />
+                <e p="AddressableAssetsSettingsGroupTreeView.cs" t="Include" />
+                <e p="AddressableAssetsSettingsLabelMaskPopup.cs" t="Include" />
+                <e p="AddressableAssetsWindow.cs" t="Include" />
+                <e p="AddressableReadOnlyAttribute.cs" t="Include" />
+                <e p="AddressablesGUIUtility.cs" t="Include" />
+                <e p="AnalyzeRuleGUI.cs" t="Include" />
+                <e p="AnalyzeWindow.cs" t="Include" />
+                <e p="AssetInspectorGUI.cs" t="Include" />
+                <e p="AssetInspectorGUIGroupsPopup.cs" t="Include" />
+                <e p="AssetLabelReferenceDrawer.cs" t="Include" />
+                <e p="AssetPublishEditor.cs" t="Include" />
+                <e p="AssetReferenceDrawer.cs" t="Include" />
+                <e p="AssetSettingsAnalyzeTreeView.cs" t="Include" />
+                <e p="BuildProfileSettingsEditor.cs" t="Include" />
+                <e p="CacheInitializationDataDrawer.cs" t="Include" />
+                <e p="ContentUpdatePreviewWindow.cs" t="Include" />
+                <e p="GUIElements" t="Include">
+                  <e p="DocumentationButton.cs" t="Include" />
+                  <e p="GUIUtility.cs" t="Include" />
+                  <e p="LabeledLabel.cs" t="Include" />
+                  <e p="Ribbon.cs" t="Include" />
+                  <e p="RibbonButton.cs" t="Include" />
+                  <e p="SearchStringFilters.cs" t="Include" />
+                  <e p="StyleSheets" t="Include">
+                    <e p="Ribbon.uss" t="Include" />
+                    <e p="Ribbon_dark.uss" t="Include" />
+                    <e p="Ribbon_light.uss" t="Include" />
+                  </e>
+                  <e p="UXML" t="Include">
+                    <e p="Ribbon.uxml" t="Include" />
+                  </e>
+                  <e p="VisualElementsWrapper.cs" t="Include" />
+                </e>
+                <e p="HostingServicesAddServiceWindow.cs" t="Include" />
+                <e p="HostingServicesListTreeView.cs" t="Include" />
+                <e p="HostingServicesProfileVarsTreeView.cs" t="Include" />
+                <e p="HostingServicesWindow.cs" t="Include" />
+                <e p="LabelWindow.cs" t="Include" />
+                <e p="ProfileDataSourceDropdownWindow.cs" t="Include" />
+                <e p="ProfileTreeView.cs" t="Include" />
+                <e p="ProfileValueReferenceDrawer.cs" t="Include" />
+                <e p="ProfileWindow.cs" t="Include" />
+                <e p="SerializedTypeDrawer.cs" t="Include" />
+                <e p="UpgradeNotifications.cs" t="Include" />
+              </e>
+              <e p="HostingServices" t="Include">
+                <e p="BaseHostingService.cs" t="Include" />
+                <e p="HostingServicesManager.cs" t="Include" />
+                <e p="HttpHostingService.cs" t="Include" />
+                <e p="IHostingService.cs" t="Include" />
+                <e p="IHostingServiceConfigurationProvider.cs" t="Include" />
+              </e>
+              <e p="Settings" t="Include">
+                <e p="AddressableAssetBuildSettings.cs" t="Include" />
+                <e p="AddressableAssetEntry.cs" t="Include" />
+                <e p="AddressableAssetEntryCollection.cs" t="Include" />
+                <e p="AddressableAssetGroup.cs" t="Include" />
+                <e p="AddressableAssetGroupSchema.cs" t="Include" />
+                <e p="AddressableAssetGroupSchemaSet.cs" t="Include" />
+                <e p="AddressableAssetGroupSchemaTemplate.cs" t="Include" />
+                <e p="AddressableAssetGroupTemplate.cs" t="Include" />
+                <e p="AddressableAssetGroupTemplateInterface.cs" t="Include" />
+                <e p="AddressableAssetPostProcessor.cs" t="Include" />
+                <e p="AddressableAssetProfileSettings.cs" t="Include" />
+                <e p="AddressableAssetSettings.cs" t="Include" />
+                <e p="AddressableAssetUtility.cs" t="Include" />
+                <e p="AddressableScenesManager.cs" t="Include" />
+                <e p="AddressablesFileEnumeration.cs" t="Include" />
+                <e p="AssetReferenceDrawerUtilities.cs" t="Include" />
+                <e p="BuiltinSceneCache.cs" t="Include" />
+                <e p="CacheInitializationSettings.cs" t="Include" />
+                <e p="CcdFolder.cs" t="Include" />
+                <e p="GlobalInitialization.cs" t="Include" />
+                <e p="GroupSchemas" t="Include">
+                  <e p="BundledAssetGroupSchema.cs" t="Include" />
+                  <e p="ContentUpdateGroupSchema.cs" t="Include" />
+                  <e p="PlayerDataGroupSchema.cs" t="Include" />
+                </e>
+                <e p="KeyDataStore.cs" t="Include" />
+                <e p="LabelTable.cs" t="Include" />
+                <e p="OrgData.cs" t="Include" />
+                <e p="Preferences.cs" t="Include" />
+                <e p="ProfileDataSourceSettings.cs" t="Include" />
+                <e p="ProfileGroupType.cs" t="Include" />
+                <e p="ProfileValueReference.cs" t="Include" />
+                <e p="ProjectConfigData.cs" t="Include" />
+              </e>
+              <e p="Unity.Addressables.Editor.asmdef" t="Include" />
+            </e>
+            <e p="package.json" t="Include" />
+            <e p="Runtime" t="Include">
+              <e p="Addressables.cs" t="Include" />
+              <e p="AddressablesImpl.cs" t="Include" />
+              <e p="AssemblyInfo.cs" t="Include" />
+              <e p="AssetLabelReference.cs" t="Include" />
+              <e p="AssetReference.cs" t="Include" />
+              <e p="AssetReferenceUIRestriction.cs" t="Include" />
+              <e p="IKeyEvaluator.cs" t="Include" />
+              <e p="Initialization" t="Include">
+                <e p="AddressablesRuntimeProperties.cs" t="Include" />
+                <e p="CacheInitialization.cs" t="Include" />
+                <e p="CheckCatalogsOperation.cs" t="Include" />
+                <e p="CleanBundleCacheOperation.cs" t="Include" />
+                <e p="InitializationObjectsOperation.cs" t="Include" />
+                <e p="InitializationOperation.cs" t="Include" />
+                <e p="PackedPlayModeBuildLogs.cs" t="Include" />
+                <e p="ResourceManagerRuntimeData.cs" t="Include" />
+                <e p="UpdateCatalogsOperation.cs" t="Include" />
+              </e>
+              <e p="ResourceLocators" t="Include">
+                <e p="CcdManagedData.cs" t="Include" />
+                <e p="ContentCatalogData.cs" t="Include" />
+                <e p="DynamicResourceLocators.cs" t="Include" />
+                <e p="IResourceLocator.cs" t="Include" />
+                <e p="LegacyResourcesLocator.cs" t="Include" />
+                <e p="ResourceLocationData.cs" t="Include" />
+                <e p="ResourceLocationMap.cs" t="Include" />
+              </e>
+              <e p="ResourceManager" t="Include">
+                <e p="AssemblyInfo.cs" t="Include" />
+                <e p="AsyncOperations" t="Include">
+                  <e p="AsyncOperationBase.cs" t="Include" />
+                  <e p="AsyncOperationHandle.cs" t="Include" />
+                  <e p="AsyncOperationStatus.cs" t="Include" />
+                  <e p="ChainOperation.cs" t="Include" />
+                  <e p="DownloadStatus.cs" t="Include" />
+                  <e p="GroupOperation.cs" t="Include" />
+                  <e p="ProviderOperation.cs" t="Include" />
+                  <e p="UnityWebRequestOperation.cs" t="Include" />
+                </e>
+                <e p="CcdManager.cs" t="Include" />
+                <e p="Diagnostics" t="Include">
+                  <e p="DiagnosticEvent.cs" t="Include" />
+                  <e p="DiagnosticEventCollector.cs" t="Include" />
+                  <e p="Profiling" t="Include">
+                    <e p="FrameDataStructs.cs" t="Include" />
+                    <e p="ProfilerFrameData.cs" t="Include" />
+                    <e p="ProfilerRuntime.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="ResourceLocations" t="Include">
+                  <e p="ILocationSizeData.cs" t="Include" />
+                  <e p="IResourceLocation.cs" t="Include" />
+                  <e p="ResourceLocationBase.cs" t="Include" />
+                </e>
+                <e p="ResourceManager.cs" t="Include" />
+                <e p="ResourceProviders" t="Include">
+                  <e p="AssetBundleProvider.cs" t="Include" />
+                  <e p="AssetDatabaseProvider.cs" t="Include" />
+                  <e p="AtlasSpriteProvider.cs" t="Include" />
+                  <e p="BinaryAssetProvider.cs" t="Include" />
+                  <e p="BinaryDataProvider.cs" t="Include" />
+                  <e p="BundledAssetProvider.cs" t="Include" />
+                  <e p="IInstanceProvider.cs" t="Include" />
+                  <e p="InstanceProvider.cs" t="Include" />
+                  <e p="IResourceProvider.cs" t="Include" />
+                  <e p="ISceneProvider.cs" t="Include" />
+                  <e p="IUpdateReceiver.cs" t="Include" />
+                  <e p="JSONAssetProvider.cs" t="Include" />
+                  <e p="LegacyResourcesProvider.cs" t="Include" />
+                  <e p="ResourceProviderBase.cs" t="Include" />
+                  <e p="SceneProvider.cs" t="Include" />
+                  <e p="Simulation" t="Include">
+                    <e p="VirtualAssetBundle.cs" t="Include" />
+                    <e p="VirtualAssetBundleProvider.cs" t="Include" />
+                    <e p="VirtualAssetBundleRuntimeData.cs" t="Include" />
+                    <e p="VirtualBundledAssetProvider.cs" t="Include" />
+                  </e>
+                  <e p="TextDataProvider.cs" t="Include" />
+                  <e p="WebRequestQueue.cs" t="Include" />
+                </e>
+                <e p="Unity.ResourceManager.asmdef" t="Include" />
+                <e p="Util" t="Include">
+                  <e p="BinaryStorageBuffer.cs" t="Include" />
+                  <e p="ComponentSingleton.cs" t="Include" />
+                  <e p="DelayedActionManager.cs" t="Include" />
+                  <e p="DelegateList.cs" t="Include" />
+                  <e p="Exceptions.cs" t="Include" />
+                  <e p="ListWithEvents.cs" t="Include" />
+                  <e p="MonoBehaviourCallbackHooks.cs" t="Include" />
+                  <e p="OperationCacheKeys.cs" t="Include" />
+                  <e p="PlatformUtilities.cs" t="Include" />
+                  <e p="ResourceManagerConfig.cs" t="Include" />
+                  <e p="UnityWebRequestUtilities.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ResourceProviders" t="Include">
+                <e p="ContentCatalogProvider.cs" t="Include" />
+              </e>
+              <e p="Services" t="Include">
+                <e p="PlatformMappingService.cs" t="Include" />
+              </e>
+              <e p="Unity.Addressables.asmdef" t="Include" />
+              <e p="Utility" t="Include">
+                <e p="ResourceManagerEventCollector.cs" t="Include" />
+                <e p="SerializationUtilities.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Tests" t="Include">
+              <e p="Editor" t="Include">
+                <e p="DocExampleCode" t="Include">
+                  <e p="README.txt" t="Include" />
+                </e>
+                <e p="Unity.Addressables.Editor.Tests.asmdef" t="Include" />
+              </e>
+              <e p="Runtime" t="Include">
+                <e p="ResourceManager" t="Include">
+                  <e p="Unity.ResourceManager.Tests.asmdef" t="Include" />
+                </e>
+                <e p="Unity.Addressables.Runtime.Tests.asmdef" t="Include" />
               </e>
             </e>
           </e>
@@ -2255,6 +2920,143 @@
           </e>
           <e p="com.unity.modules.xr@1.0.0" t="Include">
             <e p="package.json" t="Include" />
+          </e>
+          <e p="com.unity.scriptablebuildpipeline@1.21.22" t="Include">
+            <e p="Editor" t="Include">
+              <e p="AssemblyInfo.cs" t="Include" />
+              <e p="CompatibilityBuildPipeline.cs" t="Include" />
+              <e p="ContentPipeline.cs" t="Include" />
+              <e p="Injector" t="Include">
+                <e p="ContextInjector.cs" t="Include" />
+              </e>
+              <e p="Interfaces" t="Include">
+                <e p="IAssetRepresentationData.cs" t="Include" />
+                <e p="IBuildCache.cs" t="Include" />
+                <e p="IBuildContent.cs" t="Include" />
+                <e p="IBuildContext.cs" t="Include" />
+                <e p="IBuildLog.cs" t="Include" />
+                <e p="IBuildParameters.cs" t="Include" />
+                <e p="IBuildResults.cs" t="Include" />
+                <e p="IBuildSpriteData.cs" t="Include" />
+                <e p="IBuildTasks.cs" t="Include" />
+                <e p="IBundleExplictObjectLayout.cs" t="Include" />
+                <e p="IDependencyData.cs" t="Include" />
+                <e p="IDeterministicIdentifiers.cs" t="Include" />
+                <e p="IObjectDependencyData.cs" t="Include" />
+                <e p="IProgressTracker.cs" t="Include" />
+                <e p="IWriteData.cs" t="Include" />
+                <e p="IWriteOperation.cs" t="Include" />
+              </e>
+              <e p="Profiler" t="Include">
+                <e p="BuildProfiler.cs" t="Include" />
+              </e>
+              <e p="ReturnCode.cs" t="Include" />
+              <e p="Shared" t="Include">
+                <e p="BuildCallbacks.cs" t="Include" />
+                <e p="BuildContent.cs" t="Include" />
+                <e p="BuildContext.cs" t="Include" />
+                <e p="BuildDependencyData.cs" t="Include" />
+                <e p="BuildExtendedAssetData.cs" t="Include" />
+                <e p="BuildParameters.cs" t="Include" />
+                <e p="BuildResults.cs" t="Include" />
+                <e p="BuildSpriteData.cs" t="Include" />
+                <e p="BuildTasksRunner.cs" t="Include" />
+                <e p="BuildWriteData.cs" t="Include" />
+                <e p="BundleExplictObjectLayout.cs" t="Include" />
+                <e p="DefaultBuildTasks.cs" t="Include" />
+                <e p="LinearPackedIdentifiers.cs" t="Include" />
+                <e p="PrefabPackedIdentifiers.cs" t="Include" />
+                <e p="Unity5PackedIdentifiers.cs" t="Include" />
+              </e>
+              <e p="Tasks" t="Include">
+                <e p="AppendBundleHash.cs" t="Include" />
+                <e p="ArchiveAndCompressBundles.cs" t="Include" />
+                <e p="BuildPlayerScripts.cs" t="Include" />
+                <e p="CalculateAssetDependencyData.cs" t="Include" />
+                <e p="CalculateCustomDependencyData.cs" t="Include" />
+                <e p="CalculateSceneDependencyData.cs" t="Include" />
+                <e p="ClusterBuildLayout.cs" t="Include" />
+                <e p="CreateBuiltInShadersBundle.cs" t="Include" />
+                <e p="CreateMonoScriptBundle.cs" t="Include" />
+                <e p="GenerateBundleCommands.cs" t="Include" />
+                <e p="GenerateBundleMaps.cs" t="Include" />
+                <e p="GenerateBundlePacking.cs" t="Include" />
+                <e p="GenerateLinkXml.cs" t="Include" />
+                <e p="GenerateSubAssetPathMaps.cs" t="Include" />
+                <e p="PostDependencyCallback.cs" t="Include" />
+                <e p="PostPackingCallback.cs" t="Include" />
+                <e p="PostScriptsCallback.cs" t="Include" />
+                <e p="PostWritingCallback.cs" t="Include" />
+                <e p="PreviewSceneDependencyData.cs" t="Include" />
+                <e p="RebuildSpriteAtlasCache.cs" t="Include" />
+                <e p="StripUnusedSpriteSources.cs" t="Include" />
+                <e p="SwitchToBuildPlatform.cs" t="Include" />
+                <e p="UpdateBundleObjectLayout.cs" t="Include" />
+                <e p="WriteSerializedFiles.cs" t="Include" />
+              </e>
+              <e p="Unity.ScriptableBuildPipeline.Editor.asmdef" t="Include" />
+              <e p="Utilities" t="Include">
+                <e p="BuildCache.cs" t="Include" />
+                <e p="BuildCacheUtility.cs" t="Include" />
+                <e p="BuildInterfacesWrapper.cs" t="Include" />
+                <e p="BuildLog.cs" t="Include" />
+                <e p="BuildLogger.cs" t="Include" />
+                <e p="CacheEntry.cs" t="Include" />
+                <e p="CommonStrings.cs" t="Include" />
+                <e p="ContentFileIdentifiers.cs" t="Include" />
+                <e p="ExtensionMethods.cs" t="Include" />
+                <e p="FileCompressor.cs" t="Include" />
+                <e p="GraphicsSettingsApi.cs" t="Include" />
+                <e p="HashingHelpers.cs" t="Include" />
+                <e p="HashingMethods.cs" t="Include" />
+                <e p="HashStream.cs" t="Include" />
+                <e p="LinkXMLGenerator.cs" t="Include" />
+                <e p="MD4.cs" t="Include" />
+                <e p="PlayerSettingsApi.cs" t="Include" />
+                <e p="Preferences.cs" t="Include" />
+                <e p="ProgressLoggingTracker.cs" t="Include" />
+                <e p="ProgressTracker.cs" t="Include" />
+                <e p="QualitySettingsApi.cs" t="Include" />
+                <e p="ReflectionExtensions.cs" t="Include" />
+                <e p="SceneStateCleanup.cs" t="Include" />
+                <e p="SpookyHash.cs" t="Include" />
+                <e p="TaskCachingUtility.cs" t="Include" />
+                <e p="ThreadingManager.cs" t="Include" />
+                <e p="TrackerExtensions.cs" t="Include" />
+                <e p="USerialize" t="Include">
+                  <e p="Deserializer.cs" t="Include" />
+                  <e p="Serializer.cs" t="Include" />
+                  <e p="USerialize.cs" t="Include" />
+                </e>
+                <e p="USerializeTools" t="Include">
+                  <e p="DumpToText.cs" t="Include" />
+                </e>
+                <e p="ValidationMethods.cs" t="Include" />
+                <e p="VersionedCallbackAttribute.cs" t="Include" />
+              </e>
+              <e p="WriteTypes" t="Include">
+                <e p="AssetBundleWriteOperation.cs" t="Include" />
+                <e p="RawWriteOperation.cs" t="Include" />
+                <e p="SceneBundleWriteOperation.cs" t="Include" />
+                <e p="SceneDataWriteOperation.cs" t="Include" />
+                <e p="SceneRawWriteOperation.cs" t="Include" />
+              </e>
+            </e>
+            <e p="package.json" t="Include" />
+            <e p="Runtime" t="Include">
+              <e p="CompatibilityAssetBundleManifest.cs" t="Include" />
+              <e p="Shared" t="Include">
+                <e p="BundleDetails.cs" t="Include" />
+              </e>
+              <e p="Unity.ScriptableBuildPipeline.asmdef" t="Include" />
+            </e>
+            <e p="Tests" t="Include">
+              <e p="Editor" t="Include">
+                <e p="Unity.ScriptableBuildPipeline.Editor.Tests.asmdef" t="Include" />
+              </e>
+              <e p="Unity.ScriptableBuildPipeline.Tests.asmdef" t="Include" />
+            </e>
+            <e p="ValidationExceptions.json" t="Include" />
           </e>
           <e p="com.unity.test-framework@1.1.33" t="Include">
             <e p="package.json" t="Include" />
@@ -5382,6 +6184,7 @@
           </e>
         </e>
       </e>
+      <e p="marijnz.EditorCoroutines.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="OverloadedFunctionPointers.csproj" t="IncludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
@@ -5421,6 +6224,11 @@
       <e p="Unity.2D.Tilemap.Extras.Placeholder.EditorTests.csproj" t="IncludeRecursive" />
       <e p="Unity.2D.Tilemap.Extras.Player.csproj" t="IncludeRecursive" />
       <e p="Unity.2D.Tilemap.Package.EditorTests.csproj" t="IncludeRecursive" />
+      <e p="Unity.Addressables.csproj" t="IncludeRecursive" />
+      <e p="Unity.Addressables.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.Addressables.Editor.Tests.csproj" t="IncludeRecursive" />
+      <e p="Unity.Addressables.Player.csproj" t="IncludeRecursive" />
+      <e p="Unity.Addressables.Tests.csproj" t="IncludeRecursive" />
       <e p="Unity.Burst.CodeGen.csproj" t="IncludeRecursive" />
       <e p="Unity.Burst.csproj" t="IncludeRecursive" />
       <e p="Unity.Burst.Editor.csproj" t="IncludeRecursive" />
@@ -5442,7 +6250,15 @@
       <e p="Unity.Mathematics.Player.csproj" t="IncludeRecursive" />
       <e p="Unity.Mathematics.Tests.csproj" t="IncludeRecursive" />
       <e p="Unity.PlasticSCM.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.ResourceManager.csproj" t="IncludeRecursive" />
+      <e p="Unity.ResourceManager.Player.csproj" t="IncludeRecursive" />
+      <e p="Unity.ResourceManager.Tests.csproj" t="IncludeRecursive" />
       <e p="Unity.Rider.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.ScriptableBuildPipeline.csproj" t="IncludeRecursive" />
+      <e p="Unity.ScriptableBuildPipeline.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.ScriptableBuildPipeline.Editor.Tests.csproj" t="IncludeRecursive" />
+      <e p="Unity.ScriptableBuildPipeline.Player.csproj" t="IncludeRecursive" />
+      <e p="Unity.ScriptableBuildPipeline.Tests.csproj" t="IncludeRecursive" />
       <e p="Unity.TextMeshPro.csproj" t="IncludeRecursive" />
       <e p="Unity.TextMeshPro.Editor.csproj" t="IncludeRecursive" />
       <e p="Unity.TextMeshPro.Editor.Tests.csproj" t="IncludeRecursive" />

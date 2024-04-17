@@ -17,7 +17,7 @@ public class TimerMonoBehaviour : MonoBehaviour
         _timer = new Timer();
         OnStartTimer();
         CounterDifferences.OnAllDifferencesFind += OnAllDifferencesFind;
-        LevelChanger.OnStartNewLvl += OnStartTimer;
+        AppadealManager.OnRewardedVideoFinishedAction += OnRewardedVideoFinished;
     }
 
     void Update()
@@ -29,6 +29,11 @@ public class TimerMonoBehaviour : MonoBehaviour
             _timer.StopTimer();
             OnTimerIsOver.Invoke();
         }
+    }
+
+    private void OnRewardedVideoFinished()
+    {
+        OnStartTimer();
     }
 
     private void OnStartTimer()
@@ -45,5 +50,6 @@ public class TimerMonoBehaviour : MonoBehaviour
     private void OnDestroy()
     {
         CounterDifferences.OnAllDifferencesFind -= OnAllDifferencesFind;
+        AppadealManager.OnRewardedVideoFinishedAction -= OnRewardedVideoFinished;
     }
 }

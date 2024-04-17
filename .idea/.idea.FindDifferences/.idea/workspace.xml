@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveLoad/GameStateFileProvider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveLoad/GameStatePlayerPrefsProvider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79A7B2C7-0050-43D7-BA49-637CE6EAE1BD/04/0b8e3351/EventDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Appadeal/AppadealManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -33,8 +34,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/GameStatePlayerPrefsProvider.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/GameStateData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/SaveLoad.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/GameStateAbstractProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/SaveLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Time/TimeMonoBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Appadeal/AppadealManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -61,10 +65,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="28860">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="26800">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="28860" />
+      <option name="pid" value="26800" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -79,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713257569077</updated>
-      <workItem from="1713257576684" duration="19017000" />
+      <workItem from="1713257576684" duration="27399000" />
     </task>
     <servers />
   </component>
@@ -160,45 +164,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="287" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1713288203453" />
+    <state x="723" y="221" key="RiderGenerateDialog" timestamp="1713345433193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="221" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1713345433193" />
     <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1713287997234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1713287997234" />
-    <state x="567" y="253" width="785" height="534" key="find.popup" timestamp="1713286954231">
+    <state x="567" y="253" width="823" height="564" key="find.popup" timestamp="1713356418211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="567" y="253" width="785" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1713286954231" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/LevelChanger.cs</url>
-          <line>18</line>
-          <properties documentPath="D:\UnityProgram\FindDifferences\Assets\Scripts\LevelChanger.cs" initialLine="18">
-            <startOffsets>
-              <option value="457" />
-            </startOffsets>
-            <endOffsets>
-              <option value="503" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/SaveLoad/SaveLoad.cs</url>
-          <line>12</line>
-          <properties documentPath="D:\UnityProgram\FindDifferences\Assets\Scripts\SaveLoad\SaveLoad.cs" initialLine="12">
-            <startOffsets>
-              <option value="279" />
-            </startOffsets>
-            <endOffsets>
-              <option value="314" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="567" y="253" width="823" height="564" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1713356418211" />
   </component>
 </project>
