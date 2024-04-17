@@ -39,10 +39,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/GameStateAbstractProvider.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/SaveLoad.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Appadeal/AppadealManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IAPCore.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Time/TimeMonoBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -87,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713257569077</updated>
-      <workItem from="1713257576684" duration="30012000" />
+      <workItem from="1713257576684" duration="30745000" />
     </task>
     <servers />
   </component>
