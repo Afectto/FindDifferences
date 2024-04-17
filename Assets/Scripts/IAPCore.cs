@@ -1,8 +1,9 @@
 using System;
 using UnityEngine;
 using UnityEngine.Purchasing;
+using UnityEngine.Purchasing.Extension;
 
-public class IAPCore : MonoBehaviour, IStoreListener
+public class IAPCore : MonoBehaviour, IDetailedStoreListener
 {
     private static IStoreController m_StoreController;
     private static IExtensionProvider m_StoreExtensionProvider; 
@@ -100,16 +101,15 @@ public class IAPCore : MonoBehaviour, IStoreListener
         }
     }
 
-    private void Awake()
-    {
-
-    }
-
     public void OnInitialized(IStoreController controller, IExtensionProvider extensions)
     {
-        Debug.Log("OnInitialized: PASS");
         m_StoreController = controller;
         m_StoreExtensionProvider = extensions;
+    }
+
+    public void OnPurchaseFailed(Product product, PurchaseFailureDescription failureDescription)
+    {
+        throw new NotImplementedException();
     }
 
     private bool IsInitialized()

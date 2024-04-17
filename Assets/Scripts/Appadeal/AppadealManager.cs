@@ -36,7 +36,7 @@ public class AppadealManager : MonoBehaviour, IRewardedVideoAdListener
         Appodeal.MuteVideosIfCallsMuted(true);
         
         Appodeal.Initialize(APP_KEY, AppodealAdType.Interstitial);
-        
+         
         Appodeal.SetRewardedVideoCallbacks(this);
     }
 
@@ -82,7 +82,6 @@ public class AppadealManager : MonoBehaviour, IRewardedVideoAdListener
 
     private void OnDestroy()
     {
-        
         LevelChanger.OnStartNewLvl -= ShowInterAds;
     }
 }
