@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
 
 public class LevelChanger : MonoBehaviour
@@ -43,9 +44,10 @@ public class LevelChanger : MonoBehaviour
         OnStartNewLvl?.Invoke();
     }
     
-    private void CreateLevel(int value)
+    private async void CreateLevel(int value)
     {
-        _currentLevel = Instantiate(levelPrefab[value], canvas.transform);
+        var levelPrefab = await Addressables.LoadAssetAsync<GameObject>("Level_1").Task;
+        _currentLevel = Instantiate(levelPrefab, canvas.transform);
     }
 
     private void OnDestroy()
