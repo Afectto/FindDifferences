@@ -24,12 +24,14 @@ public class Overlay : MonoBehaviour
 
     void OnShowWinCanvas()
     {
+        _loseText.gameObject.SetActive(false);
         _winText.gameObject.SetActive(true);
         ShowCanvas();
     }
     
     void OnShowLoseCanvas()
     {
+        _winText.gameObject.SetActive(false);
         _loseText.gameObject.SetActive(true);
         ShowCanvas();
     }

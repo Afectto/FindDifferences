@@ -3,6 +3,7 @@
   <component name="ContentModelUserStore">
     <attachedFolders />
     <explicitIncludes>
+      <Path>Assets</Path>
       <Path>Library/PackageCache/com.appodeal.mediation@b86d86381f</Path>
       <Path>Library/PackageCache/com.unity.2d.animation@9.1.0</Path>
       <Path>Library/PackageCache/com.unity.2d.aseprite@1.1.2</Path>
@@ -33,6 +34,7 @@
     <explicitExcludes>
       <Path>.git</Path>
       <Path>.idea</Path>
+      <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>
       <Path>UserSettings</Path>
