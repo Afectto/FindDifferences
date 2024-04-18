@@ -4,16 +4,16 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 1530d35b5bfe67949ad104f527361fc4
+  productGUID: 88b61179827dcbf4c9eac4b09c03bdb6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
-  defaultScreenOrientation: 0
+  defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: FindDifferences
+  productName: TESTBUILD
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -161,7 +161,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.afecto.test
+    Android: com.ad.ada
     Standalone: com.DefaultCompany.2DProject
   buildNumber:
     Standalone: 0
@@ -820,14 +820,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FindDifferences
+  metroPackageName: TESTBUILD
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: FindDifferences
+  metroApplicationDescription: TESTBUILD
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -876,8 +876,7 @@ PlayerSettings:
   XboxOneOverrideIdentityName: 
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
-  cloudServicesEnabled:
-    Purchasing: 1
+  cloudServicesEnabled: {}
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -897,10 +896,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: c49e17ab-82be-40f9-be44-e6f39995925c
+  cloudProjectId: bae8ae1a-b45b-4358-a6d2-a7c54bc3f1a0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: FindDifferences
+  projectName: TESTBUILD
   organizationId: afectoarc
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

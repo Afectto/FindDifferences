@@ -1,3 +1,4 @@
+
 using System;
 using UnityEngine;
 using UnityEngine.Purchasing;
@@ -126,7 +127,4 @@ public class IAPCore : MonoBehaviour, IDetailedStoreListener
     {
         Debug.Log(string.Format("OnPurchaseFailed: FAIL. Product: '{0}', PurchaseFailureReason: {1}", product.definition.storeSpecificId, failureReason));
     }
-
-
-
 }

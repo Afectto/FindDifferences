@@ -1,13 +1,13 @@
 using System;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
+// using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
 
 public class LevelChanger : MonoBehaviour
 {
     [SerializeField] private Text textLvlNum;
     [SerializeField] private Canvas canvas;
-    [SerializeField] private GameObject[] levelPrefab;
     
     private int _currentLvlNum = 1;
     private GameObject _currentLevel;

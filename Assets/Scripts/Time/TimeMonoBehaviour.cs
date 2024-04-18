@@ -20,7 +20,7 @@ public class TimerMonoBehaviour : MonoBehaviour
         OnStartTimer();
         CounterDifferences.OnAllDifferencesFind += OnAllDifferencesFind;
         AppadealManager.OnRewardedVideoFinishedAction += OnRewardedVideoFinished;
-        IAPCore.OnAddTimerLimit += OnAddTimerLimit;
+        // IAPCore.OnAddTimerLimit += OnAddTimerLimit;
     }
 
     private void OnAddTimerLimit(int value)
